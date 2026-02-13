@@ -12,7 +12,7 @@ A modern, high-performance eCommerce mobile application built with **Flutter** a
 ## 🛠 Tech Stack
 *   **Framework:** [Flutter](https://flutter.dev)
 *   **Language:** [Dart](https://dart.dev)
-*   **State Management:** Provider / Bloc / GetX
+*   **State Management:** Provider
 *   **Architecture:** MVVM (Model-View-ViewModel)
 *   **IDE:** Optimized for [Visual Studio Code](https://code.visualstudio.com)
 
